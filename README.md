@@ -3,4 +3,6 @@ SkillTic is is a dedicated mobile platform for everyone to showcase their market
 
 # UI Mockups/Wireframes Templates 
 
-![home and search page](https://user-images.githubusercontent.com/96373072/225730721-89c9fcaf-3e48-4e0e-9ed2-2e97d70f64cb.png)
+
+<img width="950" alt="home and search page" src="(https://user-images.githubusercontent.com/96373072/225730721-89c9fcaf-3e48-4e0e-9ed2-2e97d70f64cb.png">
+

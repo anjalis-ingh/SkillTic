@@ -3,7 +3,7 @@ SkillTic is a dedicated mobile platform for everyone to showcase their marketabl
 
 Built using AdobeXD
 
-# UI Mockups/Wireframes Templates 
+# UI Mockups/Wireframe Templates 
 1. Home and Search Page 
 <img width="720" src="https://user-images.githubusercontent.com/96373072/225730721-89c9fcaf-3e48-4e0e-9ed2-2e97d70f64cb.png">
 

@@ -1,7 +1,7 @@
 # SkillTic
 SkillTic is a dedicated mobile platform for everyone to showcase their marketable skills, define skill categories, receive endorsements, connect with potential clients and employers (opportunities) and constantly learn, develop and improve your profile.
 
-Built using AdobeXD
+**Built using AdobeXD**
 
 # UI Mockups/Wireframe Templates 
 1. Home and Search Page 

@@ -1,9 +1,7 @@
 # SkillTic
 SkillTic is a dedicated mobile platform for everyone to showcase their marketable skills, define skill categories, receive endorsements, connect with potential clients and employers (opportunities) and constantly learn, develop and improve your profile.
 
-Now known as **blueRibbon**, I collaborated with a team of backend developers to refine the app's design and functionality by creating 15 UI mockup templates. To learn more, check out the [Design Review](https://docs.google.com/presentation/d/1cwMkjkAEZ2FikmQ1UT_sQr5xq-Hq6Tulj1CqsL9u_yE/edit#slide=id.p), [Backend Architecture](https://docs.google.com/presentation/d/1_u7gkt7P7a-plvCMakJ0QrnvV6_KYTlS/edit#slide=id.p1), or [Website](https://blueribbon.ai/)! <img src="https://cdn3.emoji.gg/emojis/8090-bearheart.png" width="20px" height="20px" alt="BearHeart"></a>
-
-**Built using AdobeXD**
+Now known as **blueRibbon**, I collaborated with a team of backend developers to refine the app's design and functionality by creating 15 UI mockup templates using **AdobeXD**. To learn more, check out the [Design Review](https://docs.google.com/presentation/d/1cwMkjkAEZ2FikmQ1UT_sQr5xq-Hq6Tulj1CqsL9u_yE/edit#slide=id.p), [Backend Architecture](https://docs.google.com/presentation/d/1_u7gkt7P7a-plvCMakJ0QrnvV6_KYTlS/edit#slide=id.p1), or [Website](https://blueribbon.ai/)! <img src="https://cdn3.emoji.gg/emojis/8090-bearheart.png" width="20px" height="20px" alt="BearHeart"></a>
 
 # UI Mockups/Wireframe Templates 
 1. Home and Search Page 
